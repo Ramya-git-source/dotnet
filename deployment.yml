@@ -34,7 +34,7 @@ spec:
 
       - name: nginx
 
-        image: 495826736668.dkr.ecr.ap-south-1.amazonaws.com/ramyaproject:SAMPLE-PROJECT-2  
+        image: 495826736668.dkr.ecr.ap-south-1.amazonaws.com/mintu-project:SAMPLE-PROJECT-8
 
         ports:
 
